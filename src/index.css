@@ -1,0 +1,20 @@
+:root {
+    --yellow: #DFA100;
+    --black_text: #212121;
+    --black: #1E1E1E;
+    --silver: #C4C4C4;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    border: solid 2px transparent;
+    outline: none;
+}
