@@ -1,0 +1,16 @@
+._header{
+    background-color: royalblue;
+    height: 100px;
+    color: white;
+}
+
+._header nav ul{
+    display: flex;
+}
+
+li{
+    margin: 10px;
+    padding: 10px;
+    list-style: none;
+}
+
